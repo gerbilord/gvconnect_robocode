@@ -3,7 +3,7 @@
     <option name="MAIN_CLASS_NAME" value="robocode.Robocode" />
     <module name="robocodeIntellij" />
     <option name="VM_PARAMETERS" value="-Xmx512M -Dsun.io.useCanonCaches=false -Ddebug=true" />
-    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../robocode" />
+    <option name="WORKING_DIRECTORY" value="CHANGE THIS TO ROBOCODE INSTALL DIRECTORY" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
